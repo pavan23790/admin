@@ -1,4 +1,1 @@
-Hi my First git file
-test for the above text 
-
-changes done over dir
+test for github
