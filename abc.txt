@@ -1,2 +1,4 @@
 Hi my First git file
-test for the above text
+test for the above text 
+
+changes done over dir
